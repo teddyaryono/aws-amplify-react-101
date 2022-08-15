@@ -35,7 +35,7 @@ After you have opened the IDE, open a new terminal.
 Run the following to get started. This will configure the environment and clean any artifacts from this lab being run previously.
 
 ```cd ~/AWSAmplifyReact101-Cloud9-IDE/
-bash resize.sh 20
+wget https://raw.githubusercontent.com/teddyaryono/aws-amplify-react-101/main/resize.sh && bash resize.sh 20
 ```
 GOOD! The instance has been resized. ✅ Now, we will have a bit more space to install the dependencies needed to run our app. 
 

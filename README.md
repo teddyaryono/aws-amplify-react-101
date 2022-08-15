@@ -206,7 +206,7 @@ Let's stop the server by going back to the terminal and pressing *control+c*.
 
 Below you can find an example of the CSS module that we are going to use to manipulate the look of the buttons as well as the table component.
 
-1. In the *scrc* directory find a file called *App.css* and paste there the below code so that it is amplify_workshop/src/App.css.
+1. In the *src* directory find a file called *App.css* and paste there the below code so that it is amplify_workshop/src/App.css.
 
 *App.css*
 

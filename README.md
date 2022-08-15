@@ -14,7 +14,8 @@ This lab assumes the following:
 
 It's being executed in an AWS Cloud9 instance provided by the lab co-ordinator.
 This repository has been cloned into the default ```~/environment```
-**[If you run it outside of AWS Event - make sure to run a Cloudformation script that you can find in the project tree: ec2_with_repo.yml]
+
+**[If you run it outside of AWS Event - make sure to run a Cloudformation script that you can find in the project tree: `ec2_with_repo.yml`]**
 
 ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 

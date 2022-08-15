@@ -369,7 +369,7 @@ amplify delete
 
 ## Tell us what you think 
 
-Did you like the Lab? Please [leave us feedback](https://github.com/teddyaryono/dotc-devlab-anz-2022/blob/main/README.md) to let us know how we did and for us to improve in future labs.
+Did you like the Lab? Please [leave us feedback](https://eventbox.dev/survey/4OAM19Y) to let us know how we did and for us to improve in future labs.
 
 ## License
 
